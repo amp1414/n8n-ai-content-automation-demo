@@ -10,7 +10,7 @@ The workflow is divided into several stages covering input and scheduling, runti
 
 ### Input, Configuration & AI Generation
 
-![n8n AI automation workflow - input configuration and AI generation](docs/workflow-overview-1.jpg)
+![n8n AI automation workflow - input configuration and AI generation](docs/workflow-overview-1.png)
 
 This section handles:
 
@@ -25,7 +25,7 @@ This section handles:
 
 ### Publishing, Distribution & Recovery
 
-![n8n AI automation workflow - publishing distribution and recovery](docs/workflow-overview-2.jpg)
+![n8n AI automation workflow - publishing distribution and recovery](docs/workflow-overview-2.png)
 
 This section handles:
 
@@ -260,8 +260,8 @@ n8n-ai-content-automation-demo/
 ├── workflow.json
 │
 └── docs/
-    ├── workflow-overview-1.jpg
-    └── workflow-overview-2.jpg
+    ├── workflow-overview-1.png
+    └── workflow-overview-2.png
 ```
 
 ## Disclaimer
